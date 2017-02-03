@@ -1,5 +1,3 @@
-  CartSpec.swift
-
 import Quick
 import Nimble
 @testable import swift_shopping_cart
